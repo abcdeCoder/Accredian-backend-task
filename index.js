@@ -7,7 +7,7 @@ import { config } from "dotenv";
 config()
 
 // Alllowed origins for the server
-const allowedOrigins = [ "https://657c9e89ad30d41e248e7754--mellow-jelly-7b3cf4.netlify.app","http://192.168.1.41:3000", "http://localhost:3000"]
+const allowedOrigins = [ "https://657ca13eb0fbca20b07b52da--fantastic-starlight-6e5d9a.netlify.app","http://192.168.1.41:3000", "http://localhost:3000"]
 
 
 const app = express();
